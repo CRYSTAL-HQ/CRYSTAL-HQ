@@ -1,4 +1,10 @@
-<p align="center"><img src="https://cdn.discordapp.com/attachments/862011075195830302/870918872272887848/CRYSTAL.gif" alt="khushboogoel01" /></p>
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+
+<hr>
+
+<p align="center"><a href="https://dsc.gg/crystal-hq"><img src="https://cdn.discordapp.com/attachments/862011075195830302/870918872272887848/CRYSTAL.gif" alt="CRYSTAL-HQ" /></a></p>
 
 <h1 align="center">Hi 👋, I'm CRYSTAL-HQ</h1>
 <h3 align="center">A Passionate Frontend Developer From India !</h3>
