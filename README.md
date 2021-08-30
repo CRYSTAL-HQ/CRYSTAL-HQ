@@ -8,7 +8,7 @@
 
 <h1 align="center">Hi 👋, I'm CRYSTAL-HQ</h1>
 <h3 align="center">A Passionate Frontend Developer From India !</h3>
-<p align="center"> <img src="https://discord.c99.nl/widget/theme-2/879695880528216075.png" alt="Discord" /> </p>
+<p align="center"> <a href="https://discord.io/crystal-hq"><img src="https://discord.c99.nl/widget/theme-2/879695880528216075.png" alt="DISCORD_STATUS" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crystal-hq&label=Profile%20views&color=0e75b6&style=flat" alt="crystal-hq" /> </p>
 
@@ -40,8 +40,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/crystalhq"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="crystalhq" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=crystal-hq&show_icons=true&locale=en&layout=compact" alt="crystal-hq" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=crystal-hq&show_icons=true&locale=en&layout=compact" alt="crystal-hq" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=crystal-hq&show_icons=true&locale=en" alt="crystal-hq" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=crystal-hq&show_icons=true&locale=en" alt="crystal-hq" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crystal-hq&" alt="crystal-hq" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crystal-hq&" alt="crystal-hq" /></p>
