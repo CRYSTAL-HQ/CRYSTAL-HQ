@@ -8,6 +8,7 @@
 
 <h1 align="center">Hi 👋, I'm CRYSTAL-HQ</h1>
 <h3 align="center">A Passionate Frontend Developer From India !</h3>
+<p align="center"> <img src="https://discord.c99.nl/widget/theme-2/879695880528216075.png" alt="Discord" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crystal-hq&label=Profile%20views&color=0e75b6&style=flat" alt="crystal-hq" /> </p>
 
